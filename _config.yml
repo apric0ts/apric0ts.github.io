@@ -1,0 +1,34 @@
+title: Austin Hwang
+description: CS @ Northeastern University
+baseurl: ""
+url: https://github.com/apric0ts
+
+theme: cvless
+
+# site settings
+taglong: CS @ Northeastern University
+tagshort: CS @ Northeastern University
+
+# author settings
+author:
+  name: Austin Hwang
+  email: hwang.au@northeastern.edu
+photo: assets/images/headshot.png
+address: Boston, MA
+phone: +1 234 567 890
+
+# social media links
+social:
+  # facebook: username
+  github: apric0ts
+  # instagram: username
+  linkedin: austin-hwang18
+  # stackoverflow: 0000000/username
+  # x: username
+
+# build settings
+permalink: pretty
+exclude:
+  - docker-compose.yml
+  - LICENSE
+  - README.md

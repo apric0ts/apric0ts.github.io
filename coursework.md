@@ -1,7 +1,6 @@
 ---
 layout: page
-title: On the use of icons
-lead: A very quick guide.
+title: My Coursework
 ---
 
 [{% include svg/nav-arrow-left.svg %}](/index) Back to Home
